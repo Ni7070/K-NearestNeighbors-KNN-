@@ -7,7 +7,7 @@ from each other. In other way we can predict that, data points
 that are close to each other may belongs to the same classes.
 So, when a new point comes, its distances from all the other
 points are calculated using: <br>
-distance = $(x2 − x1)^2 + (y2 − y1)^2$ <br>
+distance = (x2 − x1)^2 + (y2 − y1)^2 <br>
 We were given some data that includes train data
 and test data. We measured the distance of the test data from
 the train data. Then, We took input from the user on how many
